@@ -19,6 +19,7 @@ namespace Termie
 		{
 			public string Str;
 			public Color ForeColor;
+            public bool GitTest;
 
 			public Line(string str, Color color)
 			{
